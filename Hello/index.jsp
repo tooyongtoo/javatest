@@ -9,7 +9,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <head>
     <base href="<%=basePath%>">
     
-    <title>JAVATEST</title>
+    <title>JAVATESTNODE2</title>
 	<meta http-equiv="pragma" content="no-cache">
 	<meta http-equiv="cache-control" content="no-cache">
 	<meta http-equiv="expires" content="0">    
@@ -22,6 +22,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   
   <body>
   	<h3 style="margin-left:20px">Welcome to Docker. </h3>
-  	<h3 style="margin-left:20px">This is node1. </h3>
+  	<h3 style="margin-left:20px">This is node2. </h3>
   </body>
 </html>
